@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users>
+    <user>
+        <idUser>1</idUser>
+        <name>Carina</name>
+        <username>employeeCarina</username>
+        <password>password</password>
+        <email>carina@sql.com</email>
+    </user>
+    <user>
+        <idUser>2</idUser>
+        <name>Aida</name>
+        <username>employeeAida</username>
+        <password>password</password>
+        <email>aida@sql.com</email>
+    </user>
+    <user>
+        <idUser>4</idUser>
+        <name>Carina</name>
+        <username>emplCarina</username>
+        <password>password</password>
+        <email>carinel@nervi.com</email>
+    </user>
+</Users>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Books>
+<header-section>
+        <data-type id="019">User Bill Data</data-type>
+        <process-date>Thursday December 9 2016 00:04:29</process-date>
+    </header-section>
+    <book>
+        <idBook>1</idBook>
+        <title>Insomnii</title>
+        <gender>Drama</gender>
+        <author>Irina Binder</author>
+        <price>22</price>
+        <stock>3</stock>
+    </book>
+    <book>
+        <idBook>2</idBook>
+        <title>Hotul de carti</title>
+        <author>Markus Zusak</author>
+        <price>18</price>
+        <stock>2</stock>
+    </book>
+    <book>
+        <idBook>3</idBook>
+        <title>CookBook</title>
+        <gender>cook</gender>
+        <author>Carina</author>
+        <price>10</price>
+        <stock>9</stock>
+    </book>
+</Books>
